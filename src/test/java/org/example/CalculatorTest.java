@@ -35,7 +35,8 @@ public class CalculatorTest {
                 arguments(1, "+", 2, 3),
                 arguments(1, "-", 2, -1),
                 arguments(4, "*", 2, 8),
-                arguments(4, "/", 2, 2)
+                arguments(4, "/", 2, 2),
+                arguments(10, "+", 4, 14)
         );
     }
 
